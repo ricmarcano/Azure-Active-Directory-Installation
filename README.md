@@ -5,14 +5,11 @@
 <h1>Azure Active Directory: Installation</h1>
 This exercise showcases the procedures I followed to install Active Directory via Azure. Utilizing a shared vnet, I will create two VMs in Azure. This specific lab will concentrate on a single VM, designated for Active Directory installation and configured as the domain controller. The second VM will serve as a client, to be integrated in a subsequent Active Directory Configuration lab.
 
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
